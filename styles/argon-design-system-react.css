@@ -16,13 +16,14 @@
 
 */
 @font-face {
-	font-family: "MrRobot"
-;
+	font-family: "MrRobot";
+  	src: 
+   	url('/fonts/mr_robot-webfont.woff') format('woff'), 
+   	url('/fonts/mr_robot-webfont.ttf')  format('truetype');
 }
 
 #nav-title {
-	font-family: "MrRobot"
-;
+	font-family: "MrRobot" ;
 	text-transform: capitalize;
 }
 
