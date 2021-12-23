@@ -12,9 +12,11 @@ export default function Home({ githubProfileData }) {
 			<SEO
 				data={{
 					title: "Nish Gowda",
+					author : "Nish Gowda",	
+
 					description:
 						"A showcase of my work and projects.",
-					image : "https://avatars.githubusercontent.com/u/60044986?s=400&u=1c06106c009315869a3ffcce5e31aaafd811df45&v=4",
+					image : "https://nishgowda.dev/favicon.png",
 
 					url: "https://nishgowda.dev",
 					keywords: [
