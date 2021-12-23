@@ -1,0 +1,21 @@
+{
+  "short_name": "Portfolio",
+  "name": "Nish's Portfolio",
+  "description": "A showcase of my work and projects.",
+    "icons": [
+      {
+        "src": "./favicon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "./favicon.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#11cdef",
+  "background_color": "#11cdef"
+}
